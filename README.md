@@ -7,7 +7,7 @@
 - C/C++
 - Python3
 
-👯 I’m a part of:
+👩🏻‍💻 I'm currently belong to:
 - 42Seoul
 
 📫 How to reach me:
