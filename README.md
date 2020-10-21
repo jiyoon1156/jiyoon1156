@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 **⚡️ I’m currently working on**:
-- Making HTTP server
+- Studying React
 
 **🌱 I’m currently learning**:
 - C/C++
 - Python3
+- JavaScript
 
 **👩🏻‍💻 I'm currently belong to**:
 - 42Seoul
