@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **⚡️ I’m currently working on**:
-- Studying React
+- Side Projects
 
 **🌱 I’m currently learning**:
 - C/C++
