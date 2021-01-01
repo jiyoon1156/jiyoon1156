@@ -1,4 +1,6 @@
-**📚 I’m learning**: C/C++, Python3, JavaScript, React
+**🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js
+
+**📚 I’m learning**: Ruby on Rails, backbone.js
 
 **👩🏻‍💻 I belong to**: 42Seoul
 
