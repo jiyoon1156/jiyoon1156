@@ -1,4 +1,4 @@
-**🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js
+**🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js, node.js Express
 
 **👩🏻‍💻 I belong to**: 42Seoul
 
