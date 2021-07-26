@@ -1,4 +1,4 @@
-**🙋🏻‍♀️ I have experience of** : C/C++, React.js, node.js Express, Docker
+**🙋🏻‍♀️ I have experience of** : C/C++, React.js, node.js, Docker
 
 **👩🏻‍💻 I belong to**: 42Seoul
 
