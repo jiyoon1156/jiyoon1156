@@ -16,5 +16,6 @@
 </p>
 <h3 align="center">GitHub Stat</h3>
 <div align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiyoon1156&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jiyoon's github stats](https://github-readme-stats.vercel.app/api?username=jiyoon1156&show_icons=true&theme=vue)
 </div>
